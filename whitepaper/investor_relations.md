@@ -33,10 +33,10 @@ Elysium Innovations adheres to high standards of corporate governance, with poli
 For any investor-related inquiries, please reach out to:
 
 **Investor Relations Contact:**
-- Name: John Doe
-- Title: Director of Investor Relations
-- Email: john.doe@elysiuminnovations.com
-- Phone: +1 (123) 456-7890
+- Name: Michael Gruen
+- Title: CEO
+- Email: Michael@elysiuminnovations.ai
+- Phone: +1 917-975-7659
 
 We look forward to engaging with our current and prospective investors as we continue to grow and bring Elysium OS to the forefront of the edtech and gaming industries.
 
