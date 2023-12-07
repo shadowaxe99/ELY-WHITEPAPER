@@ -7,28 +7,26 @@ Elysium Innovations is proud to introduce our esteemed Advisory Board, a collect
 ### Marc Randolph
 **Role:** Advisor  
 **Expertise:** 2X Unicorn Founder  
-**Background:** Co-founder of Netflix and Looker, Marc Randolph brings a wealth of experience in building successful, customer-centric businesses.
+**Background:** As the co-founder of Netflix and Looker, Marc Randolph brings a wealth of experience in building successful, customer-centric businesses. His expertise in scaling startups and implementing customer-focused strategies is instrumental in guiding our product development and market positioning.
 
 ### Anthony Scaramucci
 **Role:** Chief Advisor  
 **Expertise:** Finance and Investment  
-**Background:** Former Goldman Sachs Vice President and Founder of SkyBridge Capital, Anthony Scaramucci offers invaluable financial insights and strategic direction.
-
+**Background:** As a former Goldman Sachs Vice President and Founder of SkyBridge Capital, Anthony Scaramucci offers invaluable financial insights and strategic direction. His deep understanding of financial markets and investment strategies helps us navigate the economic landscape and ensure the financial sustainability of Elysium OS.
 ### Brock Pierce
 **Role:** Chief Evangelist  
 **Expertise:** Blockchain Technology  
-**Background:** A pioneer in the digital currency space, Brock Pierce helps guide our blockchain strategy and innovation.
+**Background:** A pioneer in the digital currency space, Brock Pierce helps guide our blockchain strategy and innovation. His extensive knowledge of blockchain technology and its applications in various industries is crucial in shaping our blockchain-powered platform.
 
 ### Swan Sit
 **Role:** Advisor  
 **Expertise:** Digital Transformation  
-**Background:** With a strong presence in digital marketing and strategy, Swan Sit advises on our approach to engaging Gen Z in the digital landscape.
+**Background:** With a strong presence in digital marketing and strategy, Swan Sit advises on our approach to engaging Gen Z in the digital landscape. Her expertise in digital transformation and customer engagement strategies helps us create a user-centric platform that resonates with our target audience.
 
 ### William Legate
 **Role:** Technical Advisor  
 **Expertise:** Entrepreneurship and Technology  
-**Background:** Recognized as a Thiel Fellow, William Legate's entrepreneurial spirit and technical acumen fuel our product development.
-
+**Background:** Recognized as a Thiel Fellow, William Legate's entrepreneurial spirit and technical acumen fuel our product development. His insights into technology trends and startup dynamics guide our technological innovation and entrepreneurial approach.
 ### Ambassador Jamie McCourt
 **Role:** Advisor  
 **Expertise:** International Relations  
