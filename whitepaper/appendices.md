@@ -2,20 +2,20 @@
 
 ## A. Glossary of Terms
 
-- **AI (Artificial Intelligence)**: The simulation of human intelligence in machines that are programmed to think and learn.
-- **Blockchain**: A decentralized digital ledger that records transactions across many computers.
-- **Arbitrum**: A layer 2 scaling solution for Ethereum that enables fast, low-cost, and secure transactions.
-- **Gen Z**: The demographic cohort after Millennials, typically born between the mid-to-late 1990s and early 2010s.
-- **PvP (Player vs. Player)**: A type of multiplayer interactive conflict within a game between two or more live participants.
-- **NFT (Non-Fungible Token)**: A unique and non-interchangeable unit of data stored on a blockchain that can represent ownership of digital items.
+- **AI (Artificial Intelligence)**: The simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+- **Blockchain**: A decentralized digital ledger that records transactions across many computers in such a way that the registered transactions cannot be altered retroactively. This technology is primarily used to verify transactions within digital currencies though it is possible to digitize, code and insert practically any document into the blockchain.
+- **Arbitrum**: A layer 2 scaling solution for Ethereum that enables fast, low-cost, and secure transactions. It is designed to support all Ethereum Layer 1 contracts without any modifications and provides a massive increase in scalability over Layer 1.
+- **Gen Z**: The demographic cohort succeeding Millennials and preceding Generation Alpha. Researchers and popular media use the mid-to-late 1990s as starting birth years and the early 2010s as ending birth years. Most members of Generation Z are the children of Generation X.
+- **PvP (Player vs. Player)**: A type of multiplayer interactive conflict within a game between two or more live participants. This is often a mode in digital games in which players fight against each other in real-time.
+- **NFT (Non-Fungible Token)**: A type of cryptographic token on a blockchain that represents a unique item or piece of content. Unlike cryptocurrencies such as Bitcoin or Ethereum, which are fungible and can be exchanged on a one-for-one basis, NFTs are unique and not mutually interchangeable, which means no two NFTs are the same.
 
 ## B. Technical Specifications
 
 - **Platform**: Elysium OS
 - **Supported Devices**: Cross-platform compatibility with desktop, mobile, and tablet devices.
 - **Programming Languages Used**: JavaScript, Solidity, Python.
-- **Frameworks and Libraries**: React, Node.js, Web3.js, Truffle.
-- **Blockchain Network**: Arbitrum Layer 2 on Ethereum.
+- **Frameworks and Libraries**: React, a JavaScript library for building user interfaces. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine. Web3.js, Ethereum JavaScript API which connects to the Generic JSON-RPC spec. Truffle, a world-class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
+- **Blockchain Network**: Arbitrum Layer 2 on Ethereum, a highly scalable, PoS chain that uses a decentralized network of nodes to process transactions and secure the network.
 
 ## C. Elysium OS Feature Details
 
@@ -30,8 +30,8 @@
 
 ## E. Additional Resources
 
-- **Whitepaper References**: Full list of references and citations used in the whitepaper.
-- **External Articles and Reports**: Curated list of external resources for further reading on AI, blockchain, and Gen Z engagement.
+- **Whitepaper References**: Comprehensive list of all the references and citations used in the whitepaper, providing a detailed overview of the sources that contributed to the research and development of Elysium OS.
+- **External Articles and Reports**: A curated list of high-quality external resources for further reading on AI, blockchain, and Gen Z engagement. These resources include academic articles, industry reports, and thought leadership pieces that provide additional insights into the topics covered in the whitepaper.
 
 ## F. Team and Advisory Board Profiles
 
