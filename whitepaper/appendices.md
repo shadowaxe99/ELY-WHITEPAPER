@@ -57,11 +57,16 @@
 ## J. Contact Information
 
 - **Corporate Contacts**: Contact details for Elysium Innovations corporate inquiries.
-- **Support Channels**: Information on customer support and technical assistance for Elysium OS users.
+- **Support Channels**: Elysium OS offers comprehensive customer support and technical assistance options to ensure users have a smooth experience. These include a 24/7 live chat service, an AI-powered FAQ section, dedicated email support, and a community-driven forum where users can seek help from peers and experts alike.
 
 ## K. Acknowledgements
 
-- **Contributors**: List of individuals and organizations that contributed to the development of Elysium OS.
-- **Special Thanks**: Acknowledgements to those who provided support and guidance throughout the project.
+- **Contributors**: A heartfelt appreciation for the individuals and organizations that have played a pivotal role in the development of Elysium OS. This includes our dedicated developers, creative designers, insightful researchers, and progressive educators that have been instrumental to the platform's success.
+- **Special Thanks**: Special thanks to our community members, beta testers, and visionary partners who provided invaluable feedback, support, and guidance throughout the journey of bringing Elysium OS to life.
+## L. Technical Resources
+
+- **Documentation**: An extensive library of comprehensive guides and API references to empower developers and users to fully harness the capabilities of Elysium OS.
+- **Tutorials**: Step-by-step tutorials and video guides that cater to both beginners and advanced users, paving the way for a smooth learning curve and enhanced software proficiency.
+- **Forums**: A vibrant community forum where users and developers can collaborate, share best practices, and offer mutual support in troubleshooting and innovation.
 
 (Note: The above markdown document is structured to provide appendices for the whitepaper, detailing supplementary information and resources related to Elysium OS and Elysium Innovations.)
