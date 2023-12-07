@@ -13,15 +13,15 @@
 
 - **Platform**: Elysium OS
 - **Supported Devices**: Cross-platform compatibility with desktop, mobile, and tablet devices.
-- **Programming Languages Used**: JavaScript, Solidity, Python.
-- **Frameworks and Libraries**: React, Node.js, Web3.js, Truffle.
-- **Blockchain Network**: Arbitrum Layer 2 on Ethereum.
+- **Programming Languages Used**: JavaScript for responsive frontend development, Solidity for secure smart contract implementation on Ethereum, and Python for backend services and data processing.
+- **Frameworks and Libraries**: React for building dynamic user interfaces, Node.js for scalable network applications, Web3.js for interacting with Ethereum blockchain nodes, and Truffle for development, testing, and asset management of smart contracts.
+- **Blockchain Network**: Utilizing Arbitrum Layer 2 solutions on Ethereum to achieve high throughput, low transaction costs, and enhanced scalability while maintaining security and decentralization.
 
 ## C. Elysium OS Feature Details
 
-- **AI Guardians**: Detailed description and capabilities of AI agents within Elysium OS.
-- **The Arena**: Technical breakdown of the gaming environment, including server architecture and game engine specifics.
-- **Automation Station**: Overview of productivity tools and their integration with the Elysium OS ecosystem.
+- **AI Guardians**: Integrating cutting-edge machine learning models, the AI Guardians offer custom-tailored guidance and learning experiences, harnessing deep neural networks for an adaptive, personalized journey through Elysium OS.
+- **The Arena**: Leveraging the latest in game engine technology, The Arena offers a fully immersive multiplayer environment with advanced physics simulations and high-performance server infrastructure for real-time gaming and collaboration.
+- **Automation Station**: With a focus on enhancing user efficiency, Automation Station utilizes intelligent algorithms to automate repetitive tasks and seamlessly connect with various Elysium OS features and external applications.
 
 ## D. Research and Studies
 
