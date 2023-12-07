@@ -6,44 +6,41 @@ Elysium Innovations is proud to introduce our esteemed Advisory Board, a collect
 
 ### Marc Randolph
 **Role:** Advisor  
-**Expertise:** 2X Unicorn Founder  
-**Background:** Co-founder of Netflix and Looker, Marc Randolph brings a wealth of experience in building successful, customer-centric businesses.
+**Expertise:** 2X Unicorn Founder, Technology Leadership  
+**Background:** Co-founder of Netflix and Looker, Marc Randolph brings a wealth of experience in building successful, customer-centric businesses. His technical leadership and understanding of user-centric design principles contribute significantly to the development of Elysium OS, giving it a competitive edge in the market.
 
 ### Anthony Scaramucci
 **Role:** Chief Advisor  
-**Expertise:** Finance and Investment  
-**Background:** Former Goldman Sachs Vice President and Founder of SkyBridge Capital, Anthony Scaramucci offers invaluable financial insights and strategic direction.
-
+**Expertise:** Finance, Investment, and Strategic Planning  
+**Background:** Former Goldman Sachs Vice President and Founder of SkyBridge Capital, Anthony Scaramucci offers invaluable financial insights and strategic direction. His expertise in financial planning and investment strategies ensures the economic viability of Elysium OS, making it a sustainable and scalable platform.
 ### Brock Pierce
 **Role:** Chief Evangelist  
-**Expertise:** Blockchain Technology  
-**Background:** A pioneer in the digital currency space, Brock Pierce helps guide our blockchain strategy and innovation.
+**Expertise:** Blockchain Technology, Cryptocurrency  
+**Background:** A pioneer in the digital currency space, Brock Pierce helps guide our blockchain strategy and innovation. His expertise in blockchain technology and cryptocurrency adds a layer of security and efficiency to Elysium OS, making it a trusted platform for users.
 
 ### Swan Sit
 **Role:** Advisor  
-**Expertise:** Digital Transformation  
-**Background:** With a strong presence in digital marketing and strategy, Swan Sit advises on our approach to engaging Gen Z in the digital landscape.
+**Expertise:** Digital Transformation, Gen Z Engagement  
+**Background:** With a strong presence in digital marketing and strategy, Swan Sit advises on our approach to engaging Gen Z in the digital landscape. Her understanding of Gen Z's digital behavior and preferences helps shape the user experience of Elysium OS, making it a preferred platform for the digital-first generation.
 
 ### William Legate
 **Role:** Technical Advisor  
-**Expertise:** Entrepreneurship and Technology  
-**Background:** Recognized as a Thiel Fellow, William Legate's entrepreneurial spirit and technical acumen fuel our product development.
-
+**Expertise:** Entrepreneurship, Technology, Product Development  
+**Background:** Recognized as a Thiel Fellow, William Legate's entrepreneurial spirit and technical acumen fuel our product development. His insights into technology trends and product development strategies ensure that Elysium OS stays at the forefront of innovation.
 ### Ambassador Jamie McCourt
 **Role:** Advisor  
-**Expertise:** International Relations  
-**Background:** Jamie McCourt's experience as a U.S. Ambassador and businesswoman informs our global strategy and partnerships.
+**Expertise:** International Relations, Global Strategy  
+**Background:** Jamie McCourt's experience as a U.S. Ambassador and businesswoman informs our global strategy and partnerships. Her expertise in international relations helps Elysium OS to expand its reach globally and form strategic partnerships, giving it a global competitive edge.
 
 ### Yohei Nakajima
 **Role:** Advisor and Scholar in Residence  
-**Expertise:** Venture Capital and Product Management  
-**Background:** Creator of BabyAGI and a seasoned VC, Yohei Nakajima's insights drive our product innovation and startup growth.
+**Expertise:** Venture Capital, Product Management, Startup Growth  
+**Background:** Creator of BabyAGI and a seasoned VC, Yohei Nakajima's insights drive our product innovation and startup growth. His expertise in venture capital and product management ensures that Elysium OS remains innovative and competitive in the startup landscape.
 
 ### Michael Poryes
 **Role:** Advisor  
-**Expertise:** Content Strategy  
-**Background:** Television producer Michael Poryes adds narrative depth to our content, ensuring it resonates with our audience.
-
+**Expertise:** Content Strategy, Audience Engagement  
+**Background:** Television producer Michael Poryes adds narrative depth to our content, ensuring it resonates with our audience. His expertise in content strategy and audience engagement helps Elysium OS deliver engaging and relevant content to its users, enhancing user experience and satisfaction.
 ### Shweta Katyal
 **Role:** Advisor  
 **Expertise:** Technology Leadership  
